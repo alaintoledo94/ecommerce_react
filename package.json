@@ -1,7 +1,7 @@
 {
   "name": "proyecto-react",
   "private": true,
-  "homepage": "https://alaintoledo94.github.io/ecommerce_react/build",
+  "homepage": "https://alaintoledo94.github.io/ecommerce_react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
